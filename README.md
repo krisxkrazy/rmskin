@@ -1,2 +1,3 @@
 # rmskin
-my rainmeter skins
+
+rainmeter themes & wallpapers
